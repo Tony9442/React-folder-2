@@ -67,8 +67,8 @@
 const Header = () => {
   return (
     <header>
-      <nav className='nav'>
-        <img className='image'src="./React_logo2.png"/>
+      <nav className="nav">
+        <img className="image" src="./React_logo2.png" />
         <ul className="nav-items">
           <li>Pricing</li>
           <li>About</li>
